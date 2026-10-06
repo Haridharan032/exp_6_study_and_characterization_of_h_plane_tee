@@ -1,5 +1,3 @@
-# exp_6_study_and_characterization_of_h_plane_tee
-
 # Experiment 6 — Study and Characterization of H-Plane Tee
 
 ---
@@ -79,6 +77,10 @@ Because of the symmetry of the tee, when power enters the auxiliary arm and the 
 | **Port 1 (Collinear Arm 1)** | Ports 2 & 3 (Matched Loads) | 1.45 | 1.00 | 1.45 |
 | **Port 2 (Collinear Arm 2)** | Ports 1 & 3 (Matched Loads) | 1.43 | 1.00 | 1.43 |
 | **Port 3 (H-Plane Arm)** | Ports 1 & 2 (Matched Loads) | 1.82 | 1.00 | 1.82 |
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a1b1ba6-a94b-49f7-aab5-c65a4a8cc09c" />
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/03578f32-8111-49c6-8131-2747441e3a94" />
 
 ---
 
